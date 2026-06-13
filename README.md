@@ -18,8 +18,7 @@ A modern and responsive weather application built with **React** and **Material 
 
 ## 📸 Project Preview
 
-<!-- Apna screenshot yahan add karo -->
-![Weather App Screenshot](https://github.com/user-attachments/assets/your-image-link)
+![Weather App](weatherapp.png)
 
 ## 🎯 How to Use
 1. Open the application.
@@ -51,6 +50,3 @@ react-weather-app/
 
 ⭐ If you like this project, don't forget to give it a star on GitHub!
 
-- ## 📸 Project Preview
-
-![Weather App](weatherapp.png)
