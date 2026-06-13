@@ -46,8 +46,7 @@ react-weather-app/
 
 - ## 📸 Project Preview
 
-![Weather App]
-(weatherapp.png)
+![Weather App](weatherapp.png)
 
 ## 👨‍💻 Author
 
