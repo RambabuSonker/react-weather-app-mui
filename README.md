@@ -1,17 +1,51 @@
-<<<<<<< HEAD
-# React + Vite
+# 🌤️ React Weather App (MUI)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive weather application built with **React** and **Material UI (MUI)**. The app allows users to search for any city and view real-time weather information in a clean and user-friendly interface.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Search weather by city name
+- Displays current temperature and weather conditions
+- Responsive and clean UI with Material UI
+- Dynamic weather icons and background
+- Fast and interactive user experience
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- React.js
+- Material UI (MUI)
+- JavaScript (ES6)
+- CSS3
+- Weather API (e.g., OpenWeatherMap API)
 
-## Expanding the ESLint configuration
+## 📸 Project Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# react-weather-app-mui
-A modern Weather App built with React and Material UI that fetches real-time weather data and displays temperature, humidity, and weather conditions.
->>>>>>> 7215d526190c3d8cfe1073771ead57a4942b00a4
+<!-- Apna screenshot yahan add karo -->
+![Weather App Screenshot](https://github.com/user-attachments/assets/your-image-link)
+
+## 🎯 How to Use
+1. Open the application.
+2. Enter the name of any city.
+3. Press the search button.
+4. View the current weather details for that city.
+
+## 📂 Project Structure
+
+```
+react-weather-app/
+│── public/
+│── src/
+│── package.json
+│── vite.config.js
+└── README.md
+```
+
+## ✨ Future Improvements
+- 5-day weather forecast
+- Current location weather
+- Dark/Light mode toggle
+- Recent search history
+
+## 👨‍💻 Author
+
+**Rambabu Sonker**
+
+⭐ If you like this project, don't forget to give it a star on GitHub!
