@@ -44,8 +44,14 @@ react-weather-app/
 - Dark/Light mode toggle
 - Recent search history
 
+- ## 📸 Project Preview
+
+![Weather App](weatherapp.png)
+
 ## 👨‍💻 Author
 
 **Rambabu Sonker**
 
 ⭐ If you like this project, don't forget to give it a star on GitHub!
+
+
